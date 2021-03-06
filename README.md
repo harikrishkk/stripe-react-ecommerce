@@ -1,6 +1,3 @@
-[**Download the React Cheatsheet**](https://bit.ly/react-sheet-2021)
+## Deployed app at
 
-## System Requirements
-
-- Node 10+
-- NPM 5+
+https://candlegifts.herokuapp.com/
